@@ -1,0 +1,17 @@
+### **.gitignore**
+
+node_modules/
+dist/
+.env
+
+
+---
+
+### **.prettierrc**
+```json
+{
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 80
+}
